@@ -3,10 +3,12 @@ import os
 import re
 
 # Directory containing the frames
-frames_dir = '/home/elisa/Documents/bees data/test'
+# frames_dir = '/home/elisa/Documents/bees data/extracted/h2xy_2024-06-07-11-10_queen_zoomed/hive_2_xy_1_queen_image_compressed'
+frames_dir = '/home/elisa/Documents/bees data/test/train3_12700-14400'
+
 
 # Output video file
-output_video = '/home/elisa/Documents/bees data/output_video_test.mp4'
+output_video = '/home/elisa/Documents/bees data/train3_2.mp4'
 
 # Frame rate (frames per second)
 frame_rate = 30
