@@ -75,7 +75,7 @@ plt.plot(iterations, pairwise_loss, label='Pairwise Loss')
 
 plt.xlabel('Iterations')
 plt.ylabel('Loss')
-plt.title('Loss vs Iterations')
+# plt.title('Loss vs Iterations')
 plt.legend()
 plt.grid(True)
 plt.show()
